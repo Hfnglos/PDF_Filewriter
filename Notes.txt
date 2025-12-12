@@ -1,1 +1,0 @@
-I want an app which takes an Notion Database as an Input (maybe even a whole Page with multiple Databases) and transforms each "file" into a clean PDF file.
