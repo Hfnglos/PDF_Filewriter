@@ -24,6 +24,7 @@ if __name__ == "__main__":
     app = QtWidgets.QApplication([])
 
     widget = MyWidget()
+    widget.setWindowTitle("PDF-Filewriter")
     widget.resize(800, 600)
     widget.show()
 
