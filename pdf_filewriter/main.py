@@ -1,7 +1,6 @@
 import sys
 from PySide6 import QtCore, QtWidgets, QtGui
 
-#please just work now
 class MyWidget(QtWidgets.QWidget):
     def __init__(self):
         super().__init__()
