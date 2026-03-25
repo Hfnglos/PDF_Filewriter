@@ -15,4 +15,3 @@ I have to read the .md Files and have to read the different special characters a
 
 ## Possible Problems
 - 2 '*' direkt hinter einander (Bsp.: *java.util.**)
-	- "java.util.*" soll kursiv, aber das Programm wird sehr wahrscheinlich nur "java.util." kursiv schreiben
