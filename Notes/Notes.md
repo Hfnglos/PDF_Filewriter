@@ -11,12 +11,12 @@ I have to read the .md Files and have to read the different special characters a
 ## Notion Blocks
 - Heading 1-4 (#)
 - Toggle Heading 1-3 (#>)
-- Text
+- Text ()
 - Bulleted List (-)
 - Numbered List (1.)
 - To Do List (- [ ])
 - Toggle List (>)
-- Divider --
+- Divider (---)
 - Image
 - Code
 - Math
